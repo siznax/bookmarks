@@ -1,0 +1,64 @@
+body, html {
+    background-color: #121212;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+.links a {
+    display: inline-block;
+    margin: 4px;
+    padding: 6px 8px;
+    border-radius: 4px;
+    background-color: black;
+    color: #ccc;
+    text-decoration: none;
+}
+
+
+/** 1234 5678 90ab cdef **/
+
+.red a {
+    background-color: #600;
+    color: red;
+}
+
+.orange a {
+    background-color: #A60;
+    color: gold;
+}
+
+.yellow a {
+    background-color: #660;
+    color: yellow;
+}
+
+.green a {
+    background-color: #060;
+    color: lime;
+}
+
+.blue a {
+    background-color: #006;
+    color: cyan;
+}
+
+.indigo a {
+    background-color: #408;
+    color: magenta;
+}
+
+.violet a {
+    background-color: #63A;
+    color: lavender;
+}
+
+.white a {
+    background-color: black;
+    color: white;
+}
+
+#footer img {
+    padding: 24px;
+    width: 24px;
+    height: 24px;
+}
