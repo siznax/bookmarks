@@ -58,6 +58,12 @@ body, html {
     color: white;
 }
 
+.highlight, a.highlight {
+    padding: 4px 6px;
+    border: 2px solid gold;
+    color: lightyellow;
+}
+
 #footer img {
     padding: 24px;
     width: 24px;
